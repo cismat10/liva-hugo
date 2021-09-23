@@ -1,7 +1,7 @@
 ---
 title: About Me
 date: 2019-10-29T13:49:23.000+06:00
-image: shorturl.at/pF378
+image: https://images.unsplash.com/photo-1487014679447-9f8336841d58?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2010&q=80
 description: this is meta description
 
 ---
